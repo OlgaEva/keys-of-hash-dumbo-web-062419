@@ -9,9 +9,9 @@ class Hash
         binding.pry
       end
     end
-    empty 
+    empty
   end
 
 
-  
+
 end
