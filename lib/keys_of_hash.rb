@@ -4,3 +4,4 @@ class Hash
     array << "${arguments}"
   array
 end
+end
