@@ -1,7 +1,7 @@
+require 'pry'
+
 class Hash
   def keys_of(*arguments)
-    array = []
-    array << "${args}"
-    array
+    keys_of.each do ||
   end
 end
