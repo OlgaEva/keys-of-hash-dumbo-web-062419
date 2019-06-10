@@ -5,8 +5,9 @@ class Hash
     empty = []
       self.each do |key, value|
         if arguments.include?(value)
-          key
+          empty << key
         binding.pry
     end
   end
+  empty
 end
