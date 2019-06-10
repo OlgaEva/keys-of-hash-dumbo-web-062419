@@ -7,6 +7,7 @@ class Hash
         if arguments.include?(value)
           empty << key
         binding.pry
+      end
     end
   end
   empty
