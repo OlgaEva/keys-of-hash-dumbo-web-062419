@@ -8,7 +8,10 @@ class Hash
           empty << key
         binding.pry
       end
+      empty
     end
   end
-  empty
+
+
+  
 end
